@@ -3,3 +3,4 @@ plotly
 pandas
 folium
 streamlit-folium
+statsmodels
